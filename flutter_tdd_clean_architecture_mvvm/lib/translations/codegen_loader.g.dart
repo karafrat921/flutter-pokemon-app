@@ -91,7 +91,7 @@ static const Map<String,dynamic> en = {
     "are_you_sure": "Are you sure you want to leave?",
     "leave": "Leave",
     "cancel": "Cancel",
-    "coming_soon": "Çok yakında"
+    "coming_soon": "Coming Soon"
   }
 };
 static const Map<String, Map<String,dynamic>> mapLocales = {"tr": tr, "en": en};
