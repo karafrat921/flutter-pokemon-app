@@ -1,0 +1,40 @@
+{
+  "bottom": {
+    "pokemon": "Pokemonlar",
+    "berry": "Meyveler",
+    "locations": "Konumlar"
+  },
+  "pokemon": {
+    "all_pokemon": "Tüm Pokemonlar",
+    "all_favorites": "Tüm Favoriler",
+    "successful": "Başarılı",
+    "saved_to_favorites": "Favorilere kaydedildi",
+    "deleted_from_favorites": "Favorilerden silindi",
+    "delete": "Sil",
+    "pokemon":"Pokemon",
+    "ekstra": "+20",
+    "an_error_occurred": "Bir Hata Oluştu",
+    "try_again": "Tekrar Dene!",
+    "search_pokemon": "Pokemon Ara",
+    "hp": "Can Puanı",
+    "attack": "Saldırı",
+    "defense": "Savunma",
+    "special_attack": "Özel Saldırı",
+    "special_defense": "Özel Savunma",
+    "speed": "Hız",
+    "average_power": "Ortalama Güç",
+    "height": "Yükseklik:",
+    "weight": "Ağırlık:",
+    "bmi": "Vücut Kitle İndeksi:",
+    "occurred_pokemon": "Pokemon getirilirken bir hata oluştu.",
+    "detail_page": "Detay Sayfası"
+  },
+  "splash": {
+    "pokemon":"Pokemon",
+    "you_are_leaving":"Ayrılıyorsunuz.",
+    "are_you_sure":"Ayrılmak istediğinize emin misiniz?",
+    "leave":"Ayrıl",
+    "cancel":"İptal et",
+    "coming_soon":"Çok yakında"
+  }
+}

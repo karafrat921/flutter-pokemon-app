@@ -1,0 +1,40 @@
+{
+  "bottom": {
+    "pokemon":"Pokemons",
+    "berry": "Berries",
+    "locations": "Locations"
+  },
+  "pokemon": {
+    "all_pokemon":"All Pokemon",
+    "all_favorites":"All Favorites",
+    "successful":"Successful",
+    "saved_to_favorites": "Saved to Favorites",
+    "deleted_from_favorites": "Deleted from favorites",
+    "delete": "Delete",
+    "pokemon":"Pokemon",
+    "ekstra": "+20",
+    "an_error_occurred": "An Error Occurred",
+    "try_again": "Try Again!",
+    "search_pokemon": "Search Pokemon",
+    "hp": "Hp",
+    "attack": "Attack",
+    "defense": "Defense",
+    "special_attack": "Special Attack",
+    "special_defense": "Special Defense",
+    "speed": "Speed",
+    "average_power": "Average Power",
+    "height": "Height:",
+    "weight": "Weight:",
+    "bmi": "Bmi:",
+    "occurred_pokemon": "An error occurred while fetching the Pokemon.",
+    "detail_page": "Detail Page"
+  },
+  "splash": {
+    "pokemon":"Pokemon",
+    "you_are_leaving":"You are leaving.",
+    "are_you_sure":"Are you sure you want to leave?",
+    "leave":"Leave",
+    "cancel":"Cancel",
+    "coming_soon":"Çok yakında"
+  }
+}
